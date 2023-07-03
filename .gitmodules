@@ -1,0 +1,3 @@
+[submodule "flask-mail"]
+	path = flask-mail
+	url = https://github.com/mattupstate/flask-mail
